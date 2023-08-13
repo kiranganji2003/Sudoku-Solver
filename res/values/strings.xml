@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="clear_board">Clear Board</string>
+    <string name="solve_sudoku">Solve Sudoku</string>
+</resources>
